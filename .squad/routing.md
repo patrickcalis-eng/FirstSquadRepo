@@ -6,12 +6,15 @@ How to decide who handles what.
 
 | Work Type | Route To | Examples |
 |-----------|----------|----------|
-| {domain 1} | {Name} | {example tasks} |
-| {domain 2} | {Name} | {example tasks} |
-| {domain 3} | {Name} | {example tasks} |
-| Code review | {Name} | Review PRs, check quality, suggest improvements |
-| Testing | {Name} | Write tests, find edge cases, verify fixes |
-| Scope & priorities | {Name} | What to build next, trade-offs, decisions |
+| Product strategy | Leia Organa | Define MVP, user journeys, checklist scope |
+| App architecture | Hera Syndulla | Offline-first design, data sync, platform choices |
+| Integrations & sync | R2-D2 | External device sync, backups, import/export |
+| UX & content | C-3PO | Checklist wording, onboarding, accessibility |
+| Quality & acceptance | Luke Skywalker | Test plans, edge cases, release readiness |
+| Information analysis | Mon Mothma | Data modeling, checklist logic, metrics, insights |
+| Code review | Luke Skywalker | Review PRs, check quality, suggest improvements |
+| Testing | Luke Skywalker | Write tests, find edge cases, verify fixes |
+| Scope & priorities | Leia Organa | What to build next, trade-offs, decisions |
 | Session logging | Scribe | Automatic — never needs routing |
 | RAI review | Rai | Content safety, bias checks, credential detection, ethical review |
 

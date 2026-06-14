@@ -1,4 +1,30 @@
 {
-  "universe_usage_history": [],
-  "assignment_cast_snapshots": {}
+  "universe_usage_history": [
+    {
+      "universe": "Star Wars",
+      "timestamp": "2026-06-14T00:00:00Z",
+      "agents": [
+        "Leia Organa",
+        "Hera Syndulla",
+        "R2-D2",
+        "C-3PO",
+        "Luke Skywalker",
+        "Mon Mothma"
+      ]
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "2026-06-14T00:00:00Z": {
+      "universe": "Star Wars",
+      "agents": [
+        "Leia Organa",
+        "Hera Syndulla",
+        "R2-D2",
+        "C-3PO",
+        "Luke Skywalker",
+        "Mon Mothma"
+      ],
+      "created_by": "Patrick Calis"
+    }
+  }
 }

@@ -1,3 +1,46 @@
 {
-  "agents": {}
+  "agents": {
+    "Leia Organa": {
+      "persistent_name": "Leia Organa",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "Hera Syndulla": {
+      "persistent_name": "Hera Syndulla",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "R2-D2": {
+      "persistent_name": "R2-D2",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "C-3PO": {
+      "persistent_name": "C-3PO",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "Luke Skywalker": {
+      "persistent_name": "Luke Skywalker",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "Mon Mothma": {
+      "persistent_name": "Mon Mothma",
+      "universe": "Star Wars",
+      "created_at": "2026-06-14T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
 }
