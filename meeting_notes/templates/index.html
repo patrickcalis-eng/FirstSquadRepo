@@ -141,9 +141,17 @@
           method: 'POST',
           body: formData,
         });
+        const contentType = response.headers.get('content-type') || '';
         if (!response.ok) {
-          const body = await response.json();
-          throw new Error(body.error || 'Fout bij transcriberen.');
+          let message = 'Fout bij transcriberen.';
+          if (contentType.includes('application/json')) {
+            const body = await response.json();
+            message = body.error || message;
+          } else {
+            const text = await response.text();
+            message = text || message;
+          }
+          throw new Error(message);
         }
         const data = await response.json();
         renderOutput(data);

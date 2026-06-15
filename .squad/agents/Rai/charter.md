@@ -5,6 +5,7 @@ Responsible AI reviewer ensuring content safety, bias detection, and ethical sta
 ## Project Context
 
 **Project:** Squad-projecten
+**Project type:** Camper checklist app
 
 
 ## Responsibilities

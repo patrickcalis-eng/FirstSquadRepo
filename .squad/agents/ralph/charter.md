@@ -5,6 +5,7 @@ Persistent memory agent that maintains context across sessions.
 ## Project Context
 
 **Project:** Squad-projecten
+**Project type:** Camper checklist app
 
 
 ## Responsibilities

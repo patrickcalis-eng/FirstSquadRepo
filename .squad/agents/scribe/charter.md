@@ -5,6 +5,7 @@ Documentation specialist maintaining history, decisions, and technical records.
 ## Project Context
 
 **Project:** Squad-projecten
+**Project type:** Camper checklist app
 
 
 ## Responsibilities

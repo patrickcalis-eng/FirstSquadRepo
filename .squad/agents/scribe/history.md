@@ -1,6 +1,7 @@
 # Project Context
 
 - **Project:** Squad-projecten
+- **Project type:** Camper checklist app
 - **Created:** 2026-06-14
 
 ## Core Context
